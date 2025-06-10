@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://cdn.1678520.xyz/epg/"
+#EXTM3U
 #EXT-X-APP APTV
 #EXT-X-APTV-TYPE remote
 #EXT-X-SUB-URL https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
