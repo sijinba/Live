@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U catchup="append" catchup-source="?playseek=${start:YmdHMS}-${end:YmdHMS}"
 #EXT-X-APP APTV
 #EXT-X-APTV-TYPE local
 
