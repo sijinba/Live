@@ -1,4 +1,4 @@
-#EXTM3U catchup="append" catchup-source="?playseek=${start:YmdHMS}-${end:YmdHMS}"
+#EXTM3U url-tvg="https://epg.zsdc.eu.org/t.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXT-X-APP APTV
 #EXT-X-APTV-TYPE local
 
