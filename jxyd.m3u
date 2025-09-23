@@ -5,20 +5,18 @@
 
 #EXTINF:-1 tvg-id="BBC Earth" tvg-name="BBC Earth" group-title="央视",BBC Earth
 https://d3u3pfhhvuad9k.cloudfront.net/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
-#EXTINF:-1 group-title="国际",BBC News
+#EXTINF:-1 tvg-id="BBC News" tvg-name="BBC News" group-title="国际",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 group-title="国际",Nat Geo Wild East
+#EXTINF:-1 tvg-id="Nat Geo Wild East" tvg-name="Nat Geo Wild East" group-title="国际",Nat Geo Wild East
 http://panelguys.top:8080/txd7Fd/030774/11664
-#EXTINF:-1 group-title="国际",Wild Earth
+#EXTINF:-1 tvg-id="Wild Earth" tvg-name="Wild Earth" group-title="国际",Wild Earth
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-#EXTINF:-1 group-title="国际",Animal Planet
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" group-title="国际",Animal Planet
 http://panelguys.top:8080/txd7Fd/030774/57377
-#EXTINF:-1 group-title="国际",National Geographic
+#EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic" group-title="国际",National Geographic
 http://panelguys.top:8080/txd7Fd/030774/47339
-#EXTINF:-1 group-title="国际",Discovery Channel
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" group-title="国际",Discovery Channel
 http://panelguys.top:8080/txd7Fd/030774/53684
-#EXTINF:-1 group-title="国际",Wild Earth
-https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视",CCTV1
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225642/index.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" group-title="央视",CCTV2
